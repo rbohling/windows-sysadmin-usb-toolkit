@@ -1,0 +1,8 @@
+Cache/*
+Tools/*
+Reports/*
+ISO/*.iso
+ISO/*.img
+*.part
+*.stage-*
+!**/.gitkeep

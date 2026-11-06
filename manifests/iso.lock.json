@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "images": [
+    {"id":"systemrescue","version":"13.02","file":"systemrescue-13.02-amd64.iso","url":"https://fastly-cdn.system-rescue.org/releases/13.02/systemrescue-13.02-amd64.iso","sha256":"ad4d670b72859d887c7960142a9a9d36a3e50446694a035e254442f65d6e7572","hashSource":"https://www.system-rescue.org/releases/13.02/systemrescue-13.02-amd64.iso.sha256","purpose":"Filesystem rescue, offline diagnostics and data recovery"},
+    {"id":"clonezilla","version":"3.3.3-37","file":"clonezilla-live-3.3.3-37-amd64.iso","url":"https://downloads.sourceforge.net/project/clonezilla/clonezilla_live_stable/3.3.3-37/clonezilla-live-3.3.3-37-amd64.iso","sha256":"3079458d926a37d3533e5d5caeb61b6e49c2dc69e2c97e0332ef37986bb3414f","hashSource":"https://clonezilla.org/downloads/stable/data/CHECKSUMS.TXT","purpose":"Offline imaging and cloning; restore operations overwrite disks"},
+    {"id":"gparted","version":"1.8.1-6","file":"gparted-live-1.8.1-6-amd64.iso","url":"https://downloads.sourceforge.net/project/gparted/gparted-live-stable/1.8.1-6/gparted-live-1.8.1-6-amd64.iso","sha256":"d789c38779f0d6f7026c12f44c2c52a04f66e28a1aea7d51f3045ad1bbf28411","hashSource":"https://gparted.org/gparted-live/stable/CHECKSUMS.TXT","purpose":"Partition inspection and editing; applying changes can destroy data"}
+  ]
+}
